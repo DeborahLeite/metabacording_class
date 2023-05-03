@@ -3,6 +3,7 @@ Repositório destinado aos download de dados e programas a serem usados nas aula
 
 1.ANTES DE COMEÇAR FAÇA O DOWNLOAD...
   ... DOS DATASETS:
+  
   A. Dados de metabarcoding 16S (comunidade bacteriana), sendo eles 6 arquivos zipados de *Dataset16S_xxx.zip*. Faça o download destes arquivos e salve em uma nova pasta chamada: *Dataset16S* 
 
   B. Dados de metabarcoding ITS (comunidade de Symbiodiniaceae) ....
