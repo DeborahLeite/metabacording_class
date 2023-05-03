@@ -8,11 +8,9 @@ Repositório destinado aos download de dados e programas a serem usados nas aula
 B. Dados de metabarcoding ITS (comunidade de Symbiodiniaceae) ....
 
 2. WORKFLOW DAS ANÁLISE DE METABARCODING:
-
-  
-
-
-
   A. Comunidade Microbiana 16S: .....
-  B. Comunidade de Symbiodiniaceae ITS: .....
+  
 AHUAHA
+
+
+B. Comunidade de Symbiodiniaceae ITS: .....
