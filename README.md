@@ -1,9 +1,16 @@
 # Repositório do I Workshop de Metabarcoding
 Repositório destinado aos download de dados e programas a serem usados nas aulas do I Workshop de Metabarcoding
 
+1.ANTES DE COMEÇAR FAÇA O DOWNLOAD...
+  ... DOS DATASETS:
+  A. Dados de metabarcoding 16S (comunidade bacteriana), sendo eles 6 arquivos zipados de *Dataset16S_xxx.zip*. Faça o download destes arquivos e salve em uma nova pasta chamada: *Dataset16S* 
 
-Este repositório contém os seguintes documentos:
+  B. Dados de metabarcoding ITS (comunidade de Symbiodiniaceae) ....
 
-1. Dataset dos dados de metabarcoding 16S (comunidade bacteriana), sendo eles 6 arquivos zipados de *Dataset16S_xxx.zip*. Faça o download destes arquivos e salve em uma nova pasta chamada: *Dataset16S* 
+... DOS PROGRAMAS:
+    ...........
 
-2. Dataset dos dados de metabarcoding ITS (comunidade de Symbiodiniaceae) ....
+
+2. WORKFLOW DAS ANÁLISE DE METABARCODING:
+  A. Comunidade Microbiana 16S: .....
+  B. Comunidade de Symbiodiniaceae ITS: .....
